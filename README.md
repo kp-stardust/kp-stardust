@@ -1,7 +1,7 @@
 - 👋 Hola, soy Karina (@kp-stardust)
-- 👀 Me interesa la programación orientada a objetos (principalmente Java, Python), el desarrollo backend.
+- 👀 Me interesa la programación orientada a objetos (conozco Java, y algo de Python), y el desarrollo backend.
 - 📚 Estoy estudiando una carrera relacionada con sistemas en la universidad.
-- 🌱 Actualmente estoy realizando un curso de Java Fullstack (Codo a Codo 4.0) donde hasta ahora he aprendido HTML, CSS, Javascript y Bootstrap. También estoy intentando desenvolverme correctamente con Git/Github y también estudiar los conceptos  necesarios para el desarrollo Backend (según el roadmap de [roadmap.sh](https://roadmap.sh/backend)). 
+- 🌱 Recientemente terminé un curso de Java Fullstack (Codo a Codo 4.0) donde aprendí HTML, CSS, Javascript, Bootstrap y a hacer una aplicación web CRUD (trabajo que subiré a la brevedad). También estoy intentando seguir los conceptos necesarios (según el roadmap de [roadmap.sh](https://roadmap.sh/backend)) para el desarrollo Backend. 
 - 💞️ Busco oportunidades laborales y de aprendizaje, como conseguir un primer empleo de desarrollo de software o una pasantía para adquirir experiencia, ya sea cerca de donde vivo (Chubut, Argentina) o de manera remota.
 - 📫 Donde encontrarme: [Linkedin](https://www.linkedin.com/in/kpvillegas/ "Mi perfil de Linkedin")
 
